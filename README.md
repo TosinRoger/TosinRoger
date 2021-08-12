@@ -1,7 +1,5 @@
 ### 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinRoger)](https://github.com/TosinRoger/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinRoger&layout=compact)](https://github.com/TosinRoger/github-readme-stats)
 
 <!--
 **TosinRoger/TosinRoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

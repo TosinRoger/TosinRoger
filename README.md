@@ -19,6 +19,8 @@
 
 ### Contacts
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/roger-tosin-10806151/)
+- [Gitlab](https://gitlab.com/tosin)
+
 
 ### 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinRoger&layout=compact)](https://github.com/TosinRoger/github-readme-stats)
